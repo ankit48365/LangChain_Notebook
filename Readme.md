@@ -63,7 +63,9 @@ http://localhost:8082/static/visualiser/index.html
 
 ![Alt text](images/image.png)
 
+now to run a task previously run with Scheduler UI - remove the local-scheduler refrence
 
+python -m luigi --module word-frequency hello-world.py
 
 
 
