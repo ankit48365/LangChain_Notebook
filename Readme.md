@@ -67,18 +67,6 @@ now to run a task previously run with Scheduler UI - remove the local-scheduler 
 
 python -m luigi --module word-frequency hello-world.py
 
-
-
-
-
-
-
-
-
-
-
-
-
 Step 4 — Running the Luigi Scheduler
 
 
